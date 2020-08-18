@@ -1,3 +1,7 @@
+import '../css/app.css';
+import '../css/bootstrap.min.css';
+import '../css/normalize.css';
+
 class Producto {
     constructor(name,price,year){
         this.name = name
